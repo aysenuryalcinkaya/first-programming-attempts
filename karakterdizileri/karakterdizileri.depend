@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602452974 source:c:\users\asus\desktop\codeblocks\ilkprogramim\karakterdizileri\main.c
+	<stdio.h>
+	<stdlib.h>
+

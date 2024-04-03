@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602534254 source:c:\users\asus\desktop\codeblocks\ilkprogramim\dzi\main.c
+	<stdio.h>
+	<stdlib.h>
+
